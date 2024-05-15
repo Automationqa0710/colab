@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+ select colab first file
+
  # Colaboration
 
 
@@ -6,8 +9,6 @@
   
 
 
-  # Anush
+   # Anush
 
-  # Good by
 
-   # good luck
