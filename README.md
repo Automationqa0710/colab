@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
  select colab first file
 
  # Colaboration
